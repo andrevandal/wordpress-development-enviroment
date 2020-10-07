@@ -4,7 +4,7 @@ This is how I set up my local environment to develop for WordPress.
 
 ## Requirements to fill
 
-- [ ] Create `docker-compose.yml`
+- [x] Create `docker-compose.yml`
 - [ ] Enable MariaDB inside `docker-compose.yml`
 - [ ] Enable Nginx inside `docker-compose.yml`
 - [ ] Enable WordPress inside `docker-compose.yml`
